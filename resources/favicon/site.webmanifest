@@ -3,17 +3,17 @@
     "short_name": "",
     "icons": [
         {
-            "src": "/android-chrome-192x192.png",
+            "src": "/resources/favicon/android-chrome-192x192.png?v=2",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/android-chrome-256x256.png",
+            "src": "/resources/favicon/android-chrome-256x256.png?v=2",
             "sizes": "256x256",
             "type": "image/png"
         }
     ],
-    "theme_color": "#77BFA3",
-    "background_color": "#77BFA3",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
     "display": "standalone"
 }
